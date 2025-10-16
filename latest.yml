@@ -1,8 +1,8 @@
-version: 0.1.5
+version: 0.1.8
 files:
-  - url: DRYFT Packing Setup 0.1.5.exe
-    sha512: m1kNCFc7D1YpMbAG5a69EuEVED4sUerGiPr5afip3N5oIAHscardHHTvaQSECtM81MYwEcqWvmxniQ4zBx7Lcg==
-    size: 87985251
-path: DRYFT Packing Setup 0.1.5.exe
-sha512: m1kNCFc7D1YpMbAG5a69EuEVED4sUerGiPr5afip3N5oIAHscardHHTvaQSECtM81MYwEcqWvmxniQ4zBx7Lcg==
-releaseDate: '2025-10-16T11:43:15.824Z'
+  - url: DRYFT Packing Setup 0.1.8.exe
+    sha512: 4ZpU9sYRQqK8IqBBTOIbGVE1z2dNM80ax5fcgL8ZI97kHW1YzJBOKM85Xp3VIZ/ZAjZFwDgNAem6SlyrFSveXg==
+    size: 87982665
+path: DRYFT Packing Setup 0.1.8.exe
+sha512: 4ZpU9sYRQqK8IqBBTOIbGVE1z2dNM80ax5fcgL8ZI97kHW1YzJBOKM85Xp3VIZ/ZAjZFwDgNAem6SlyrFSveXg==
+releaseDate: '2025-10-16T12:00:57.108Z'
